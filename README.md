@@ -1,5 +1,6 @@
 ## Hey there! 👋
 I'm Daniil Vakhrushev, мotivated Unity developer with love for games and passion to develop them. I'm interested in desining and implementing different gameplay systems. For me it is very inspiring to see how different pieces come together to become an interesting and engaging game, that was created by me.  
+
 Around 2020 I started developing games on Unity, and now I continue to study and develop.
 
 My main skills are C# programming and using different tools and systems Unity engine offers. I am familiar with all the basic tools of the engine. Have experience working with animations, UI, localization system, particle system, Scriptable Objects and basic design patterns,
