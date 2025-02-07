@@ -1,11 +1,13 @@
 ## Hey there! 👋
-I'm Daniil Vakhrushev, мotivated Unity developer with love for games and passion to develop them. I'm interested in desining and implementing different gameplay systems. For me it is very inspiring to see how different pieces come together to become an interesting and engaging game, that was created by me.  
+I'm Daniil Vakhrushev, a software engineering student with 2 years of hands-on experience in C# development. Passionate about software development, problem-solving, and scalable system design, I have a strong foundation in programming principles and software architecture.
 
-Around 2020 I started developing games on Unity, and now I continue to study and develop.
+I began my journey in 2020, developing projects in C# and Unity, and have since expanded my expertise into software engineering beyond game development. My technical skills include:
+✅ Programming Languages: C#, Java, Python, SQL, Oracle SQL
+✅ Software Development Principles: OOP, SOLID, DRY, KISS, YAGNI
+✅ Technologies & Tools: Git, Unity 2D/3D, system architecture, UI implementation, localization, and design patterns
 
-My main skills are C# programming and using different tools and systems Unity engine offers. I am familiar with all the basic tools of the engine. Have experience working with animations, UI, localization system, particle system, Scriptable Objects and basic design patterns,  Git (GitHub) version control system.
+I have experience developing both desktop and mobile applications and continuously seek to expand my knowledge of new tools, frameworks, and best practices in modern software engineering.
 
-I have expirience in building pc and mobile games both 3D and 2D and
-familiar with main code styles (OOP, SOLID, DRY, KISS, YAGNI).
+Now, after moving to Israel, I am actively looking for new opportunities as a software engineer, eager to contribute my skills to innovative projects in a collaborative environment.
 
-I also try to grow as a programmer and discover and learn new tools, systems snf spproaches created for unity by other developers. Now, due to moving to Israel and aquiring citizenship, I am looking for new opportunities as a Unity developer.
+Let’s connect and create something impactful together! 🚀
